@@ -7,7 +7,11 @@
                {
                   "/": "commitchallenge.github.io",
                   "comment": "Matches any URL with a path that starts with https://commitchallenge.github.io"
-               }
+               },
+                {
+                  "/": "/buy/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               },
         ]
       }
     ]
