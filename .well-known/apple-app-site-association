@@ -5,7 +5,7 @@
         "appIDs": [ "NWJALMT777.in.amitsamant.commit"],
         "components": [  
                {
-                  "/": "https://commitchallenge.github.io",
+                  "/": "commitchallenge.github.io",
                   "comment": "Matches any URL with a path that starts with https://commitchallenge.github.io"
                }
         ]
